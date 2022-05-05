@@ -1,0 +1,9 @@
+c:\users\weiteng.ng.dialogasia\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.deps.json
+c:\users\weiteng.ng.dialogasia\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.json
+c:\users\weiteng.ng.dialogasia\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.dev.json
+c:\users\weiteng.ng.dialogasia\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.dll
+c:\users\weiteng.ng.dialogasia\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.pdb
+c:\users\weiteng.ng.dialogasia\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.AssemblyInfo.cs
+c:\users\weiteng.ng.dialogasia\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.dll
+c:\users\weiteng.ng.dialogasia\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\weiteng.ng.DIALOGASIA\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.csprojResolveAssemblyReference.cache
